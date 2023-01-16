@@ -1,6 +1,8 @@
 # fitness-app-react
 This repo contains a fitness demo app to showcase React works only
 
+## [Check Live](https://fitness-app-dbrb.onrender.com/)
+
 ## Modules that i used in this
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
